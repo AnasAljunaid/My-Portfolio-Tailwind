@@ -573,6 +573,10 @@ video {
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
 
+.display-none {
+  display: none;
+}
+
 .relative {
   position: relative;
 }
